@@ -1,1 +1,17 @@
-MAIN assigment code  regression Analysis
+<!-- Name : QAIM ALI -->
+<!-- ID : 37040 -->
+<!-- SUBJECT : Artificial Intelligence -->
+
+# Shopping Purchase Prediction
+
+This project predicts whether an online shopping user will complete a purchase
+using a k-nearest neighbor classifier (k=1).
+
+## Requirements
+installation
+- Python 3.12
+- scikit-learn
+
+## How to Run
+should have to Run this bash
+python shopping.py shopping.csv
